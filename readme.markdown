@@ -1,6 +1,6 @@
 # CITAS Website Automation Tool
 
-This tool checks if appointments are available every 10 minutes because the website is too shit to report available slots itself.
+This tool checks if appointments are available every 5 minutes because the website is too shit to report available slots itself.
 
 *citas.sre.gob.mx*
 
